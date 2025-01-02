@@ -5,5 +5,3 @@ This repository contains my Jupyter notebooks for various projects and learning 
 # How to use
 1. Clone the repository
 2. Open the notebook files in Jupyter Notebook or JupyterLab.
-
-Quick edit to test using github
